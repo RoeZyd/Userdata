@@ -17,7 +17,7 @@
         "device_id": "afe0132af7e9b024",
         "username": "user3",
         "password": "pass4566",
-        "expirydate": "15-10-2025",
-        "Allowoffline": true
+        "expirydate": "15-08-2025",
+        "Allowoffline": false
     }
 ]
