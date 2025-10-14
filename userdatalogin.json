@@ -1,23 +1,4 @@
-[
-    {
-        "device_id": "device123",
-        "username": "user1",
-        "password": "pass123",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "afe0132af7e9b024",
-        "username": "user3",
-        "password": "pass4566",
-        "expirydate": "15-08-2025",
-        "Allowoffline": false
-    }
-]
+{
+  "device_12345": "2025-12-31 23:59",/anto
+  "device_67890": "2025-10-20 10:00" /rudi
+}
