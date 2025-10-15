@@ -1,52 +1,52 @@
 [
   {
-    "device_id": "fa1c3ab793",
-    "user_name": "User1",
-    "expired_date": "2025-12-31"
+    "id": "fa1c3ab793",
+    "name": "User1 - RoeZyd",
+    "expire": "31.12.2026 23:59"
   },
   {
-    "device_id": "V1SUB2.0.0",
-    "user_name": "User2",
-    "expired_date": "2025-11-30"
+    "id": "abcdef1234567890",
+    "name": "User2 - Tester Bro",
+    "expire": "15.10.2025 12:00"
   },
   {
-    "device_id": "V1SUB3.0.0",
-    "user_name": "User3",
-    "expired_date": "2025-10-31"
+    "id": "buildinc-001",
+    "name": "User3 - Modder Helper",
+    "expire": "01.01.2027 00:00"
   },
   {
-    "device_id": "V1SUB4.0.0",
-    "user_name": "User4",
-    "expired_date": "2025-09-30"
+    "id": "incremental-v1.0",
+    "name": "User4 - Daily User",
+    "expire": "30.06.2026 18:00"
   },
   {
-    "device_id": "V1SUB5.0.0",
-    "user_name": "User5",
-    "expired_date": "2025-08-31"
+    "id": "7890fedcba123456",
+    "name": "User5 - Beta Tester",
+    "expire": "20.11.2025 14:30"
   },
   {
-    "device_id": "V1SUB6.0.0",
-    "user_name": "User6",
-    "expired_date": "2025-07-31"
+    "id": "mod-build-2025",
+    "name": "User6 - Secure Mod",
+    "expire": "31.12.2025 23:59"
   },
   {
-    "device_id": "V1SUB7.0.0",
-    "user_name": "User7",
-    "expired_date": "2025-06-30"
+    "id": "xyz789abc123def",
+    "name": "User7 - Friend1",
+    "expire": "15.03.2026 09:00"
   },
   {
-    "device_id": "V1SUB8.0.0",
-    "user_name": "User8",
-    "expired_date": "2025-05-31"
+    "id": "inc-987654321",
+    "name": "User8 - Friend2",
+    "expire": "01.05.2026 16:45"
   },
   {
-    "device_id": "V1SUB9.0.0",
-    "user_name": "User9",
-    "expired_date": "2025-04-30"
+    "id": "android-build-test",
+    "name": "User9 - Dev Test",
+    "expire": "31.08.2026 20:00"
   },
   {
-    "device_id": "V1SUB10.0.0",
-    "user_name": "User10",
-    "expired_date": "2025-03-31"
+    "id": "final-inc-2025",
+    "name": "User10 - Admin Roe",
+    "expire": "31.12.2027 23:59"
   }
 ]
