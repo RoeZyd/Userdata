@@ -1,62 +1,52 @@
 [
-{
-"deviceId": "fa1c3ab793",
-"name": "Roezyd (Admin Utama)",
-"expiry": "2026-12-31"
-"status": "active"
-},
-{
-"deviceId": "993847.22.05.0",
-"name": "Budi Santoso (EXPIRED)",
-"expiry": "2024-01-01"
-"status": "active"
-},
-{
-"deviceId": "A1B2C3D4E5F6",
-"name": "Sinta Dewi",
-"expiry": "2025-11-20"
-"status": "active"
-},
-{
-"deviceId": "777777.AAAAA",
-"name": "Joni Tole (EXPIRED)",
-"expiry": "2023-08-10"
-"status": "active"
-},
-{
-"deviceId": "XYZ12345ABC",
-"name": "Maya Sari",
-"expiry": "2026-06-30"
-"status": "active"
-},
-{
-"deviceId": "SMRTGMB-123",
-"name": "Asep Setiawan",
-"expiry": "2025-10-31"
-"status": "active"
-},
-{
-"deviceId": "DEV-0098-BETA",
-"name": "Tono Adiputra",
-"expiry": "2027-01-01"
-"status": "active"
-},
-{
-"deviceId": "TST-MOCK-456",
-"name": "Lisa Nuraini",
-"expiry": "2025-12-15"
-"status": "active"
-},
-{
-"deviceId": "ZYX98765FED",
-"name": "Dian Prasetyo",
-"expiry": "2026-03-15"
-"status": "active"
-},
-{
-"deviceId": "APP-LCS-101",
-"name": "Rizal Gibran",
-"expiry": "2025-11-25"
-"status": "active"
-}
+  {
+    "device_id": "fa1c3ab793",
+    "user_name": "User1",
+    "expired_date": "2025-12-31"
+  },
+  {
+    "device_id": "V1SUB2.0.0",
+    "user_name": "User2",
+    "expired_date": "2025-11-30"
+  },
+  {
+    "device_id": "V1SUB3.0.0",
+    "user_name": "User3",
+    "expired_date": "2025-10-31"
+  },
+  {
+    "device_id": "V1SUB4.0.0",
+    "user_name": "User4",
+    "expired_date": "2025-09-30"
+  },
+  {
+    "device_id": "V1SUB5.0.0",
+    "user_name": "User5",
+    "expired_date": "2025-08-31"
+  },
+  {
+    "device_id": "V1SUB6.0.0",
+    "user_name": "User6",
+    "expired_date": "2025-07-31"
+  },
+  {
+    "device_id": "V1SUB7.0.0",
+    "user_name": "User7",
+    "expired_date": "2025-06-30"
+  },
+  {
+    "device_id": "V1SUB8.0.0",
+    "user_name": "User8",
+    "expired_date": "2025-05-31"
+  },
+  {
+    "device_id": "V1SUB9.0.0",
+    "user_name": "User9",
+    "expired_date": "2025-04-30"
+  },
+  {
+    "device_id": "V1SUB10.0.0",
+    "user_name": "User10",
+    "expired_date": "2025-03-31"
+  }
 ]
