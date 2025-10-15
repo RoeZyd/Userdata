@@ -1,26 +1,62 @@
+[
 {
-  "allowed_ids": {
-    "fa1c3ab793": {
-      "name": "Fara Husada",
-      "expires": "2029-01-01"
-    },
-    "deadbeefcafebabe": {
-      "name": "Budi Santoso",
-      "expires": null
-    },
-    "1234567890abcdef": {
-      "name": "Siti Aminah",
-      "expires": "2025-12-31"
-    },
-    "abcdef1234567890": {
-      "name": "Rudi Hartono",
-      "expires": null
-    },
-    "fedcba0987654321": {
-      "name": "Agus Prasetyo",
-      "expires": "2025-11-30"
-    }
-  },
-  "global_expiry": null,
-  "allow_offline_if_failed": false
+"deviceId": "fa1c3ab793",
+"name": "Roezyd (Admin Utama)",
+"expiry": "2026-12-31"
+"status": "active"
+},
+{
+"deviceId": "993847.22.05.0",
+"name": "Budi Santoso (EXPIRED)",
+"expiry": "2024-01-01"
+"status": "active"
+},
+{
+"deviceId": "A1B2C3D4E5F6",
+"name": "Sinta Dewi",
+"expiry": "2025-11-20"
+"status": "active"
+},
+{
+"deviceId": "777777.AAAAA",
+"name": "Joni Tole (EXPIRED)",
+"expiry": "2023-08-10"
+"status": "active"
+},
+{
+"deviceId": "XYZ12345ABC",
+"name": "Maya Sari",
+"expiry": "2026-06-30"
+"status": "active"
+},
+{
+"deviceId": "SMRTGMB-123",
+"name": "Asep Setiawan",
+"expiry": "2025-10-31"
+"status": "active"
+},
+{
+"deviceId": "DEV-0098-BETA",
+"name": "Tono Adiputra",
+"expiry": "2027-01-01"
+"status": "active"
+},
+{
+"deviceId": "TST-MOCK-456",
+"name": "Lisa Nuraini",
+"expiry": "2025-12-15"
+"status": "active"
+},
+{
+"deviceId": "ZYX98765FED",
+"name": "Dian Prasetyo",
+"expiry": "2026-03-15"
+"status": "active"
+},
+{
+"deviceId": "APP-LCS-101",
+"name": "Rizal Gibran",
+"expiry": "2025-11-25"
+"status": "active"
 }
+]
