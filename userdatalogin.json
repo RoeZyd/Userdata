@@ -1,52 +1,54 @@
-[
-  {
-    "id": "fa1c3ab793",
-    "name": "User1 - RoeZyd",
-    "expire": "31.12.2026 23:59"
-  },
-  {
-    "id": "abcdef1234567890",
-    "name": "User2 - Tester Bro",
-    "expire": "15.10.2025 12:00"
-  },
-  {
-    "id": "buildinc-001",
-    "name": "User3 - Modder Helper",
-    "expire": "01.01.2027 00:00"
-  },
-  {
-    "id": "incremental-v1.0",
-    "name": "User4 - Daily User",
-    "expire": "30.06.2026 18:00"
-  },
-  {
-    "id": "7890fedcba123456",
-    "name": "User5 - Beta Tester",
-    "expire": "20.11.2025 14:30"
-  },
-  {
-    "id": "mod-build-2025",
-    "name": "User6 - Secure Mod",
-    "expire": "31.12.2025 23:59"
-  },
-  {
-    "id": "xyz789abc123def",
-    "name": "User7 - Friend1",
-    "expire": "15.03.2026 09:00"
-  },
-  {
-    "id": "inc-987654321",
-    "name": "User8 - Friend2",
-    "expire": "01.05.2026 16:45"
-  },
-  {
-    "id": "android-build-test",
-    "name": "User9 - Dev Test",
-    "expire": "31.08.2026 20:00"
-  },
-  {
-    "id": "final-inc-2025",
-    "name": "User10 - Admin Roe",
-    "expire": "31.12.2027 23:59"
-  }
-]
+{
+  "data": [
+    {
+      "name": "Fara Husada",
+      "app_id": "CZTREAM_RPCPUX",
+      "expired_date": "2025-12-31"
+    },
+    {
+      "name": "Andra",
+      "app_id": "CLOUDZ_2025_B",
+      "expired_date": "2025-11-30"
+    },
+    {
+      "name": "Riyan",
+      "app_id": "CLOUDZ_2025_C",
+      "expired_date": "2026-01-15"
+    },
+    {
+      "name": "Raka",
+      "app_id": "CLOUDZ_2025_D",
+      "expired_date": "2025-10-25"
+    },
+    {
+      "name": "Zaki",
+      "app_id": "CLOUDZ_2025_E",
+      "expired_date": "2025-12-01"
+    },
+    {
+      "name": "Luthfi",
+      "app_id": "CLOUDZ_2025_F",
+      "expired_date": "2025-11-10"
+    },
+    {
+      "name": "Hendra",
+      "app_id": "CLOUDZ_2025_G",
+      "expired_date": "2026-02-01"
+    },
+    {
+      "name": "Yoga",
+      "app_id": "CLOUDZ_2025_H",
+      "expired_date": "2025-09-30"
+    },
+    {
+      "name": "Rey",
+      "app_id": "CLOUDZ_2025_I",
+      "expired_date": "2025-12-24"
+    },
+    {
+      "name": "Dev Team",
+      "app_id": "CLOUDZ_2025_J",
+      "expired_date": "2026-05-05"
+    }
+  ]
+}
